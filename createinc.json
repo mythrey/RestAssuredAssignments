@@ -1,0 +1,4 @@
+{
+    "short_description": "Create INC using RestAssured",
+    "description": "Creating incident by passing as a file using RA"
+}
